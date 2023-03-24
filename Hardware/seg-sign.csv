@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"REF**,REF**,REF**,REF**";"MountingHole_2.2mm_M2_Pad";4;"MountingHole_2.2mm_M2_Pad";;;
+2;"A1";"Arduino_Nano";1;"Arduino_Nano_v3.x";;;
+3;"DS7,DS1,DS8,DS6,DS5,DS4,DS3,DS2";"16-seg-LED";8;"16+1segLEDdisplayCC";;;
+4;"U7,U3,U4,U5,U6,U8,U9,U10";"SSOP-24_3.9x8.7mm_P0.635mm";8;"TLC5926";;;
+5;"U1";"Tactile-switch-450-1650-ND";1;"tactile-switch";;;
+6;"SW1";"PEC11R";1;"Rotary_Encoder_Switch";;;
+7;"R13,R12,R11,R10,R9,R8,R7,R4";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";8;"1k";;;
+8;"R6";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";1;"20k";;;
+9;"R5";"R_LDR_5.0x4.1mm_P3mm_Vertical";1;"R_PHOTO";;;
+10;"R3,R2,R1";"R_0603_1608Metric_Pad1.05x0.95mm_HandSolder";3;"10k";;;
+11;"C8,C7,C6,C5,C4,C3,C2,C1,C9";"C_0603_1608Metric_Pad1.05x0.95mm_HandSolder";9;"1u";;;
+12;"U2";"SOIC-16W_7.5x10.3mm_P1.27mm";1;"DS3231";;;
+13;"BT1";"CR1220-leystone";1;"Battery_Cell";;;
