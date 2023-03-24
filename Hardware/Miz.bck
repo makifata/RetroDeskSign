@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS3232
+D ±2ppm, I2C Real-Time Clock with SRAM SOIC-8
+K Extremely Accurate I 2 C-Integrated RTC/TCXO/Crystal
+F http://datasheets.maximintegrated.com/en/ds/DS3232M.pdf
+$ENDCMP
+#
+#End Doc Library
