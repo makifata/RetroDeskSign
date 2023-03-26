@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name seg-sign-rescue)(type Legacy)(uri ${KIPRJMOD}/seg-sign-rescue.lib)(options "")(descr ""))
+)
